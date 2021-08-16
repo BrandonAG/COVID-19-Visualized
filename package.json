@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "get_data": "py -3 server/python/get_data.py",
+    "get_data": "python server/python/page.py",
     "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
