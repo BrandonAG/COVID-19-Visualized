@@ -1,3 +1,8 @@
-"server/_tmp" 
-"node_modules/*" 
-"server/_tmp/*" 
+node_modules/
+node_modules/*
+server/_tmp/
+server/_tmp/*
+server/python/__pycache__
+server/python/__pycache__/*
+server/python/venv
+server/python/venv/*
